@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Обучение в Godot</title>
+    <link rel="stylesheet" href="style.css">
+    <h1><th></p>Чтобы приступить в обучению, пройдите регистрацию</th></h1>
+      <input placeholder="Введите ваш номер телефона" type="tel" name="Pidoras" maxlength="12" value="+7">
+       <input type="password">
+        <input type="email" placeholder="Введите вашу почту..." required>
+     <h3></h3> 	<a href="http://localhost:8080/index.html"button class="button_1" type="submit">Зарегистрироваться</button>
+       <details>
+               <summary>Подробнее</summary>
+                  <a href="https://google.com" title="нажимай" target="_blank или _self">Политика конфиденциальности</a>
+           </details>
+         <p>Возникликли проблемы?</p>
+         <p>Напишите нам   <a href="mailto:esinv763@gmail.com"> на почту</a></p>
+</head>
+<body>
+      <footer>
+      <p>Godot Web Deisgn, Copyright &copy; 2025</p>
+      <script src="script.js"></script>
+    
+</body>
+</html>
